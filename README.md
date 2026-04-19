@@ -1,7 +1,7 @@
-# PROJECT NAME
+# Exploding Kittens
 
 ## Contributors
-- PERSON
+- Mahnum Somji
 - PERSON
 
 ## Dependencies

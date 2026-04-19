@@ -2,7 +2,7 @@
 
 ## Contributors
 - Mahnum Somji
-- PERSON
+- Kevin Yan
 
 ## Dependencies
 - JDK 11

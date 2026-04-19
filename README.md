@@ -3,6 +3,7 @@
 ## Contributors
 - Mahnum Somji
 - Kevin Yan
+- Vincent Tang
 
 ## Dependencies
 - JDK 11

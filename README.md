@@ -1,9 +1,9 @@
+![Gradle Build](https://github.com/nu-cs-sqe/course-project-20252603-team-19-20252603/actions/workflows/main.yml/badge.svg)
 # Exploding Kittens
 
 ## Contributors
 - Mahnum Somji
 - Kevin Yan
-- Vincent Tang
 
 ## Dependencies
 - JDK 11
